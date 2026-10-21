@@ -13,8 +13,7 @@ Aplikasi berbasis web untuk pengelolaan data produk menggunakan **Laravel 11** d
 
 ## 📸 Tampilan Aplikasi
 
-![Dashboard InventoryApp](https://raw.githubusercontent.com/cahyaheryanate25-lang/crud-laravel-products/main/public/favicon.ico)
-
+![Dashboard InventoryApp](tampilan_dashboard_inventoryapp.jpg)
 > Aplikasi dilengkapi dengan fitur statistik total jenis produk, total unit stok, tabel data interaktif, serta footer identitas mahasiswa.
 
 ---
