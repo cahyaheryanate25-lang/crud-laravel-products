@@ -13,7 +13,7 @@ Aplikasi berbasis web untuk pengelolaan data produk menggunakan **Laravel 11** d
 
 ## 📸 Tampilan Aplikasi
 
-![Dashboard InventoryApp](tampilan_dashboard_inventoryapp.jpg)
+![Dashboard InventoryApp](Screenshot%202026-10-21%20083945.png)
 > Aplikasi dilengkapi dengan fitur statistik total jenis produk, total unit stok, tabel data interaktif, serta footer identitas mahasiswa.
 
 ---
